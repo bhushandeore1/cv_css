@@ -1,0 +1,32 @@
+Colorhunt.io
+pesticides for chrome
+
+
+Inline CSS,External CSS:
+External css is preferred
+
+Class and IDs:
+
+CSS favicons:
+it is used by link tag in html
+
+CSS Display Property:
+none
+Inline-block
+Block
+Inline
+
+
+CSS Positions:
+Static 
+Relative:adding margin to relative
+Fixed
+Absolute: parent and child position; adding margin to parent element
+
+CSS-Font size:
+1 em=100%=16px;
+difference between em and rem: rem does not depend on the heridetatily part.
+It is rootem.and em is depend on the heriditarily level
+
+
+CSS float and clear:
